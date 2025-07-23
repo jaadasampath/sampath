@@ -2,6 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 10px;
+
 }
 .Top-container{
     margin-left: 20px;
@@ -17,10 +18,11 @@ body{
 
 .navbar a{
     text-decoration:none;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 5px;
     text-align:center;
     font-size: 20px;
+    
 }
 .icons a{
     margin: 20px 15px 0px 0px;
@@ -54,6 +56,7 @@ a:hover img{
 .navbar a:hover{
     background-color: #1B56FD;
     color: white;
+
 }
 
 @media(max-width:600px){
@@ -90,6 +93,6 @@ a:hover img{
         gap: 10px;
     }
     .navbar a{
-        font-size: 10px;
+        font-size: 15px;
     }
 }

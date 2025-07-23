@@ -74,11 +74,12 @@ ol ul{
         font-size: 15px;
     }
     h1{
-        font-size: 25px;
-    }
-    h2{
         font-size: 20px;
     }
+    h2{
+        font-size: 15px;
+    }
+
     .project-info p{
         font-size: 15px;
     }
@@ -88,6 +89,7 @@ ol ul{
     
     }
     .navbar a{
-        font-size: 10px;
+        font-size: 15px;
     }
+    
 }
